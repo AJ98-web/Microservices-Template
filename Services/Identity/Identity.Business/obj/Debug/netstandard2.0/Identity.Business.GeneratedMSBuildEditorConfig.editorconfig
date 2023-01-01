@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Identity.Business
+build_property.ProjectDir = C:\Users\JawadKhalid\Downloads\Microservices-Template\Services\Identity\Identity.Business\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
